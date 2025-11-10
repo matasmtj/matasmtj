@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2003<br>📚 I'm currently improving on Java and Javascript<br>🎯 Goals: land a job, project car🫡<br>🎲 Recently built a cool ToDo app using Kotlin</p>
+<p align="left">✨ Creating bugs since 2003<br>🏗️ I'm currently building a multi-purpose car lease/sale app<br>📚 Right now I'm improving on Java and Javascript<br>🎯 Goals: land a job, project car🫡<br>🎲 Recently built a cool ToDo app using Kotlin</p>
 
 ###
 
