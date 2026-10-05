@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Matas and I'm a 4th year computer science student from Lithuania.</p>
+<p align="left">My name is Matas and I'm computer science graduate from Lithuania, currently working as IT admin.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2003<br>🏗️ I'm currently building a multi-purpose car lease/sale app<br>📚 Right now I'm improving on Java and Javascript<br>🎯 Goals: land a job, project car🫡<br>🎲 Recently built a cool ToDo app using Kotlin</p>
+<p align="left">✨ Creating bugs since 2003<br>🏗️ I'm currently building a multi-purpose car lease/sale app and working on improving it<br>📚 Right now I'm improving on Java and Javascript<br>🎯 Goals: land a job, project car🫡</p>
 
 ###
 
